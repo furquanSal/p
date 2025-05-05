@@ -1,25 +1,14 @@
 {
   "files": {
     "main.css": "/static/css/main.db3b8e08.chunk.css",
-<<<<<<< HEAD
-    "main.js": "/static/js/main.0b36963a.chunk.js",
-    "main.js.map": "/static/js/main.0b36963a.chunk.js.map",
+    "main.js": "/static/js/main.c76446d7.chunk.js",
+    "main.js.map": "/static/js/main.c76446d7.chunk.js.map",
     "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
     "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
-    "static/js/2.24a0326c.chunk.js": "/static/js/2.24a0326c.chunk.js",
-    "static/js/2.24a0326c.chunk.js.map": "/static/js/2.24a0326c.chunk.js.map",
+    "static/js/2.8810f60f.chunk.js": "/static/js/2.8810f60f.chunk.js",
+    "static/js/2.8810f60f.chunk.js.map": "/static/js/2.8810f60f.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.abaea257c882b8c9da0a85bd6f67b9a6.js": "/precache-manifest.abaea257c882b8c9da0a85bd6f67b9a6.js",
-=======
-    "main.js": "/static/js/main.b371fdec.chunk.js",
-    "main.js.map": "/static/js/main.b371fdec.chunk.js.map",
-    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
-    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
-    "static/js/2.526b6ef3.chunk.js": "/static/js/2.526b6ef3.chunk.js",
-    "static/js/2.526b6ef3.chunk.js.map": "/static/js/2.526b6ef3.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.2ce402ea19adcb920e88b522c2baa8ed.js": "/precache-manifest.2ce402ea19adcb920e88b522c2baa8ed.js",
->>>>>>> release/may25
+    "precache-manifest.760b1b613d064ed0597023b763b4be1b.js": "/precache-manifest.760b1b613d064ed0597023b763b4be1b.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.db3b8e08.chunk.css.map": "/static/css/main.db3b8e08.chunk.css.map",
     "static/media/Jupyter.png": "/static/media/Jupyter.411385ce.png",
@@ -68,11 +57,8 @@
     "static/media/reactcerti.png": "/static/media/reactcerti.81240388.png",
     "static/media/reactnative.png": "/static/media/reactnative.b8c8b66a.png",
     "static/media/scikit.png": "/static/media/scikit.f0f50003.png",
-<<<<<<< HEAD
-=======
     "static/media/sendmails.png": "/static/media/sendmails.ea922ed3.png",
     "static/media/smartRad.png": "/static/media/smartRad.54395275.png",
->>>>>>> release/may25
     "static/media/sop.png": "/static/media/sop.2878e6df.png",
     "static/media/studio.png": "/static/media/studio.a0d936d2.png",
     "static/media/tenderprism.jpg": "/static/media/tenderprism.f55415a6.jpg",
